@@ -1,2 +1,2 @@
-# Learn_python
+# Learn Python
 Save my study with python
