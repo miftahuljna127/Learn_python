@@ -22,4 +22,4 @@ Use the `choice` function from the inbuilt Python `random` module to make a choi
 Print both player's moves in the format: `Player (Rock) : CPU (Paper)`
 Check both player's moves: 
 If there is a winner, print the winner, and the program ends. 
-If it's a tie (the computer and player pick the same move), restart the game from step 3
+If it's a tie (the computer and player pick the same move), restart the game from step 3.
